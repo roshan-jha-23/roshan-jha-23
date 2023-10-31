@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roshan-jha-23
 - 👀 I’m interested in backends and other technology stuff
 - 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on surrealDB
+- 💞️ I’m looking to collaborate on akto
 - 📫 How to reach me rr630822@gmail.com
 
 <!---
