@@ -1,42 +1,44 @@
-<!-- Logo & Banner -->
+<!-- Banner (optional) -->
 <p align="center">
   <img width="200" src="https://raw.githubusercontent.com/roshan-jha-23/roshan-jha-23/main/assets/github-logo.png" alt="GitHub Logo">
 </p>
 
-<h1 align="center">Hey there, I'm @roshan-jha-23!</h1>
+# Hi, I'm Roshan Jha 👋
 
-<p align="center">
-  <a href="https://roshan-jha-23-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=portfolio" alt="Portfolio">
-  </a>
-  <a href="https://medium.com/@Roshan-jha">
-    <img src="https://img.shields.io/badge/Blog-Read%20on%20Medium-black?style=for-the-badge&logo=medium" alt="Blog">
-  </a>
-  <a href="https://www.linkedin.com/in/roshan-jha-20m10/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/lonely_sheperd_">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-</p>
+I'm a backend enthusiast with a keen interest in technology and devops. Currently diving into DevOps, I leverage my skills to build reliable backends and explore modern web frameworks.
 
 ---
 
 ## About Me
 
-Hi all, main hoon Roshan – ek backend enthusiast jo technology ke maze leta hai. Backends se leke DevOps tak, sab kuch explore karne ka shauq hai. Code likhta hoon jab caffeine zyada ho, aur jokes zyada hote hain!
-
-- 👀 **Interests:** Backends, technology, and other cool tech stuff.  
-- 🌱 **Learning:** DevOps (aur haan, kabhi kabhi deploy hone mein thoda time lag jaata hai – aisa hota hai boss!).  
-- 📫 **Reach Out:** roshan.jha.201099@gmail.com
+- **Interests:** Backend development, cloud technologies, and innovative tech solutions.
+- **Current Focus:** Learning DevOps and exploring new methodologies for scalable deployments.
+- **Contact:** [roshan.jha.201099@gmail.com](mailto:roshan.jha.201099@gmail.com)
 
 ---
 
 ## What I Do
 
-- **Backend Development:** Building robust systems with a dash of quirky coding humor.  
-- **DevOps:** Koshish hai ke deployment smooth ho – jitna mumkin ho sake automation ka magic daalein.  
-- **Blogging:** Sharing my journey and learnings on [Medium](https://medium.com/@Roshan-jha) and social media.
+- **Backend Development:** Building robust systems and scalable APIs.
+- **DevOps:** Enhancing deployment processes through automation and CI/CD.
+- **Blogging:** Sharing insights and project updates on [Medium](https://medium.com/@Roshan-jha).
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <!-- Next.js -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <!-- MERN Stack -->
+  <img src="https://img.shields.io/badge/MERN-4CAF50?style=for-the-badge" alt="MERN Stack">
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</div>
 
 ---
 
@@ -46,7 +48,6 @@ Hi all, main hoon Roshan – ek backend enthusiast jo technology ke maze leta ha
   <img src="https://github-readme-stats.vercel.app/api?username=roshan-jha-23&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<!-- Optional: Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-jha-23&layout=compact&theme=radical" alt="Top Languages">
 </p>
@@ -62,10 +63,4 @@ Hi all, main hoon Roshan – ek backend enthusiast jo technology ke maze leta ha
 
 ---
 
-## Fun Fact
-
-Kabhi kabhi coding ke beech mein aata hoon switch to humor mode – just like my code sometimes crashes unexpectedly. But hey, that's the thrill of the tech ride, right? 😎
-
----
-
-*Keep calm, code on, and deploy like there's no downtime!*
+*Let's connect and build something great together!*
