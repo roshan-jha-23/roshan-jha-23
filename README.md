@@ -1,7 +1,5 @@
 <!-- Banner (optional) -->
-<p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/roshan-jha-23/roshan-jha-23/main/assets/github-logo.png" alt="GitHub Logo">
-</p>
+
 
 # Hi, I'm Roshan Jha 👋
 
