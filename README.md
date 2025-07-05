@@ -10,7 +10,7 @@ I'm an **avid backend developer** and an enthusiastic learner currently diving i
 ## 🚀 About Me
 
 - 🧠 **Lifelong Learner** | Passionate about exploring new tech.
-- 💻 **Competitive Programmer** on [Codeforces](https://codeforces.com/profile/roshan-jha-23).
+- 💻 **Competitive Programmer** on [Codeforces](https://codeforces.com/profile/roshan_j_).
 - 🔧 Currently exploring **DevOps**, **Docker**, **CI/CD**, and cloud infra.
 - ✍️ I love to share what I learn via my [Medium Blog](https://medium.com/@Roshan-jha).
 
